@@ -1,1 +1,10 @@
-Some test text here.
+CS 411 - Group 22 Project Pitches
+
+
+Pitch 1: COVID & Unemployment Data
+Resources: 
+https://www.bls.gov/developers/
+https://github.com/CSSEGISandData/COVID-19/blob/master/README.md
+
+
+Pitch 2: Social Media & Gift Recommendation
