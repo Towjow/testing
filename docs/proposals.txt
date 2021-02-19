@@ -3,7 +3,10 @@ CS 411 - Group 22 Project Pitches
 
 
 Pitch 1: COVID-19 Dashboard
-We plan on aggregating data from COVID-19 statistics to develop a real-time dashboard-style application that displays geographical trends relating to the virus. For example, the U.S. Bureau of Labor Statistics offers an API that gives public access to unemployment rates across the country. Another feature could be displaying areas with high activity of vaccination based on the location and content of COVID-related tweets. The general idea is to link COVID-19 with data or trends that are not easily accessed or discernible elsewhere. 
+We plan on aggregating data from COVID-19 statistics to develop a real-time dashboard-style application that displays geographical trends relating to the virus.
+For example, the U.S. Bureau of Labor Statistics offers an API that gives public access to unemployment rates across the country.
+Another feature could be displaying areas with high activity of vaccination based on the location and content of COVID-related tweets.
+The general idea is to link COVID-19 with data or trends that are not easily accessed or discernible elsewhere. 
 
 Resources: 
 https://www.bls.gov/developers/
